@@ -1,0 +1,9 @@
+﻿sample.txt
+*.exe
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
+07/07repo/
+07/repo/
+github_work/
