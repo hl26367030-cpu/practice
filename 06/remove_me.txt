@@ -1,1 +1,0 @@
-﻿This file will be removed with git rm.
